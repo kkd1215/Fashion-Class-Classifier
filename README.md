@@ -92,5 +92,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
           Accuracy = 0.948
           Test Accuracy = 0.919
             
-Check out (Deep Fashion dataset)[http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html]
+Check out [Deep Fashion dataset](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
 
