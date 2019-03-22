@@ -58,17 +58,17 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
     -Pandas
     -Visualization
 
-**Exploratory Data Analysis
+**Exploratory Data Analysis**
           
       Exploring through the data using matplotlib.pyplot and seaborn.
       
-**Model Training
+**Model Training**
           
       Training the model using Convolutional Neural Network.    
           
-**Model Evaluation
+**Model Evaluation**
       
-**Improving Model
+**Improving Model**
 
       - By increasing the number of filters or Feature extractors
       - By using the technique called dropout
